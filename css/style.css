@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.derecha {
+    background-color: aqua;
+    height: 30vh;
+}
+
+
+
+
+.izquierda{
+    
+    background: url(FotoPerfil.jpg);
+    background-size: cover;
+    background-position-x: left;   
+    width: 15%;
+    height: 30vh;
+}
+
+#pantalla-dividida{
+    display: flex;
+}
+
+h1{
+    font-size: 60;
+    width: 50;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+figure{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
